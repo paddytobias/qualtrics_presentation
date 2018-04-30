@@ -4,20 +4,27 @@ Intersect Australia
 
 ---
 ```
-|Module |Name             |Learning Objectives        |
-|---------------|-----------------|----------------------------|
-|1              |What is Qualtrics?| A quick explainer on  Qualtrics |
-|2              |Introducing Qualtrics platform and features |  |
-|3              |Experimenting with Qualtrics| This is a chance for participants to explore the features of Survey Editor for themselves. Participants will build their own survey and test it through basic distribution.|
-|4              |_Study on food habits and health and wellbeing_|A joint effort to create a survey that studies health and wellbeing and the intersection with dietary habits|
-|5	            |Customising the survey|We will learn the many and wonderful way that a survey in Qualtrics can be configured to enhance the respondents experience|
-|6a              |Distribution methods| Although not distributing the survey in this course, here we cover the various methods available |
-|6b              |Importing survey data| Participants will learn about how to import survey data that has been collected externally|
-|7	           |Analyse survey responses|Once we have data to work with, we then explore the pre-built analysis tools that Qualtrics offers|
-|8	           |Where to next| We finish off with some opportunities of where to go next with Qualtrics |
+
+1. What is Qualtrics?
+2. Introducing Qualtrics platform and features
+3. Experimenting with Qualtrics
+4. _Study on food habits and health and wellbeing_
+5. Customising the survey
+6a. Distribution methods
+6b. Importing survey data
+7. Analyse survey responses
+8. Where to next
 ```
 
-@[1](What is Qualtrics)
+@[1](A quick explainer on  Qualtrics)
+@[2](Including university specific details...)
+@[3](This is a chance for participants to explore the features of Survey Editor for themselves. Participants will build their own survey and test it through basic distribution.)
+@[4](A joint effort to create a survey that studies health and wellbeing and the intersection with dietary habits)
+@[5][Explore the many and wonderful ways that a survey in Qualtrics can be configured to enhance the respondents experience]
+@[6](Although not distributing the survey in this course, here we cover the various methods available)
+@[7](Participants will learn about how to import survey data that has been collected externally)
+@[8](Once we have data to work with, we then explore the pre-built analysis tools that Qualtrics offers)
+@[9](We finish off with some opportunities of where to go next with Qualtrics)
 
 ---
 ### Thank you for attending!
