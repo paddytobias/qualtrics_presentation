@@ -1,111 +1,25 @@
-# Intersect Training
+# Surveying with Qualtrics
+
+Intersect Australia
 
 ---
+```
+|Module |Name             |Learning Objectives        |
+|---------------|-----------------|----------------------------|
+|1              |What is Qualtrics?| A quick explainer on  Qualtrics |
+|2              |Introducing Qualtrics platform and features |  |
+|3              |Experimenting with Qualtrics| This is a chance for participants to explore the features of Survey Editor for themselves. Participants will build their own survey and test it through basic distribution.|
+|4              |_Study on food habits and health and wellbeing_|A joint effort to create a survey that studies health and wellbeing and the intersection with dietary habits|
+|5	            |Customising the survey|We will learn the many and wonderful way that a survey in Qualtrics can be configured to enhance the respondents experience|
+|6a              |Distribution methods| Although not distributing the survey in this course, here we cover the various methods available |
+|6b              |Importing survey data| Participants will learn about how to import survey data that has been collected externally|
+|7	           |Analyse survey responses|Once we have data to work with, we then explore the pre-built analysis tools that Qualtrics offers|
+|8	           |Where to next| We finish off with some opportunities of where to go next with Qualtrics |
+```
 
-## About Intersect
-
-+++
-
-![research_technology_impact](assets/research_technology_impact.png)
-
-Note:
-Intersect is an eResearch company. eResearch is the delivery of specialist IT to researchers to enable them to do better and more efficient research, sometimes research that couldn’t otherwise be done.  Everything we do is about research. Every dollar we attract from government, members or corporations must obey our “three laws of eResearch”:
-1. Increase research productivity by decreasing time from hypothesis to tested results. 
-1. Support research diversity by enabling collaborators to share data and experience cross-discipline and cross-organisation. 
-1. Increase research longevity by storing and sharing the long tail of data beyond the research project lifecycle. 
-
-+++
-
-### Intersect
-
-- Non-profit eResearch organisation
-- Formed in 2008 with state and federal grants |
-- And investment by NSW Universities |
-- Jointly owned and directed by a consortium of 12 Australian Universities (our Members) |
-- With 5 affiliate members |
-- Operating across 4 states and territories |
-
-+++
-
-### Members
-
-![members](assets/members.png)
-
-+++
-
-### Affiliate members
-
-![affiliates](assets/affiliates.png)
+@[1](What is Qualtrics)
 
 ---
-
-## Services
-
-- Research data storage (Space) & management
-- Research cloud computing (Time) |
-- Research High-Performance computing |
-- Software Engineering |
-- Data science services |
-- Consultation and advice |
-- Specialist training |
-
----?image=assets/people.png
----
-
-## Training
-
-We run training courses in eResearch tools in a hands-on environment on campus for our member universities. 
-
-To date, we have trained:
-
-<ul>
-<li><b class="researchers">6818</b> researchers</li>
-<li>in <b class="courses">650</b> courses</li>
-<li>at <b class="venues">14</b> institutions</li>
-<li>across <b>4</b> states and territories</li>
-</ul>
-
-+++
-
-### Data courses
-
-<ul>
-    <li>Research Data Management Techniques</li>
-    <li>Introduction to Data Visualisation with Google Fusion Tables</li>
-    <li>Cleaning and Exploring your Data with Open Refine</li>
-    <li>Excel for Researchers</li>
-    <li>Powerful Text Searching and Matching with Regular Expressions</li>
-    <li>Regular Expressions on Command</li>
-    <li>Managing Data Capture and Surveys with REDCap</li>
-</ul>
-+++
-
-### Software Courses
-
-<ul>
-	<li>Introduction to Unix</li>
-	<li>Introduction to Programming in Python</li>
-	<li>Introduction to Programming in R</li>
-	<li>Introduction to Programming in MATLAB</li>
-	<li>Introduction to Version Control with Git</li>
-	<li>Using Databases & SQL</li>
-</ul>
-
-+++
-
-### Compute Courses
-
-<ul>
-	<li>High-Performance Computing</li>
-	<li>Parallel Programming for HPC</li>
-</ul>
-
----
-
-### And back to today's course…
-
----
-
 ### Thank you for attending!
 
 - Please complete our very brief course survey: [svy.mk/18c8dHa](http://svy.mk/18c8dHa)
