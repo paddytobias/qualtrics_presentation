@@ -3,8 +3,9 @@
 Intersect Australia
 
 ---
-```
+## Course layout
 
+```
 1. What is Qualtrics?
 2. Introducing Qualtrics platform and features
 3. Experimenting with Qualtrics
