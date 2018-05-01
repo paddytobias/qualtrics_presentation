@@ -25,9 +25,9 @@ We have decided to go ahead with Qualtrics. With our survey we want to identify 
 
 +++
 We...
-1. format our survey and import it into Qualtrics |
-2. then configure the survey in Qualtrics using a range of design features to improve the experience of our respondents |
-3. finally, we distribute our survey via a number of channels |
+* format our survey and import it into Qualtrics |
+* then configure the survey in Qualtrics using a range of design features to improve the experience of our respondents |
+* finally, we distribute our survey via a number of channels |
 
 ---
 ## SCENARIO UPDATE:
@@ -36,8 +36,8 @@ We have been highly successful in our responses, which we want to integrate with
 
 +++
 We...
-1. learn how to prepare our externally-collected survey data for importing into Qualtrics |
-2. then use Qualtrics' analysis tools to make sense of our data, applying filters, getting aggregate descriptions, relating responses to separate questions, etc. |
+* learn how to prepare our externally-collected survey data for importing into Qualtrics |
+* then use Qualtrics' analysis tools to make sense of our data, applying filters, getting aggregate descriptions, relating responses to separate questions, etc. |
 
 ---
 
