@@ -42,6 +42,7 @@ We...
 ---
 
 
+... and here's the course: https://intersectaustralia.github.io/surveying-with-qualtrics/
 
 ---
 ### Thank you for attending!
