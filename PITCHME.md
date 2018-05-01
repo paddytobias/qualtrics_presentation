@@ -16,6 +16,7 @@ We are a group of social scientists with a research interest broadly in health a
 +++
 We...
 1. first explore the Qualtrics platform to suit our needs |
+2. we run through a separate scenario just to test it out, exploring all the features of the Qualtrics Survey Editor |
 
 ---
 ## SCENARIO UPDATE:
