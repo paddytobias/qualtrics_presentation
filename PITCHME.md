@@ -1,31 +1,41 @@
-# Surveying with Qualtrics
 
-Intersect Australia
+# Introduction to Surveys with Qualtrics
+
+This course uses a hypothetical research scenario:
 
 ---
-## Course layout
+## SCENARIO:
 
-```
-1. What is Qualtrics?
-2. Introducing Qualtrics platform and features
-3. Experimenting with Qualtrics
-4. _Study on food habits and health and wellbeing_
-5. Customising the survey
-6a. Distribution methods
-6b. Importing survey data
-7. Analyse survey responses
-8. Where to next
-```
+We are a group of social scientists with a research interest broadly in health and wellbeing.
 
-@[1](A quick explainer on  Qualtrics)
-@[2](Including university specific details...)
-@[3](This is a chance for participants to explore the features of Survey Editor for themselves. Participants will build their own survey and test it through basic distribution.)
-@[4](A joint effort to create a survey that studies health and wellbeing and the intersection with dietary habits)
-@[5][Explore the many and wonderful ways that a survey in Qualtrics can be configured to enhance the respondents experience]
-@[6](Although not distributing the survey in this course, here we cover the various methods available)
-@[7](Participants will learn about how to import survey data that has been collected externally)
-@[8](Once we have data to work with, we then explore the pre-built analysis tools that Qualtrics offers)
-@[9](We finish off with some opportunities of where to go next with Qualtrics)
++++
+We...
+1. first explore the Qualtrics platform to suit our needs |
+
+---
+## SCENARIO UPDATE:
+
+We have decided to go ahead with Qualtrics. With our survey we want to identify the intersections between people's socio-cultural backgrounds, professional activities and their overall health. We therefore set out to build a *Health and Nutrition survey* which will be delivered to participants 16 years and older to a culturally diverse group of participants. We already have a survey developed on our computer that can be used.
+
++++
+We...
+1. format our survey and import it into Qualtrics |
+2. then configure the survey in Qualtrics using a range of design features to improve the experience of our respondents |
+3. finally, we distribute our survey via a number of channels |
+
+---
+## SCENARIO UPDATE:
+
+We have been highly successful in our responses, which we want to integrate with 10,000 responses we have collected elsewhere previously. We want them all in Qualtrics so we can analyse them together...
+
++++
+We...
+1. learn how to prepare our externally-collected survey data for importing into Qualtrics |
+2. then use Qualtrics' analysis tools to make sense of our data, applying filters, getting aggregate descriptions, relating responses to separate questions, etc. |
+
+---
+
+
 
 ---
 ### Thank you for attending!
