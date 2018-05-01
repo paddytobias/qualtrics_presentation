@@ -1,7 +1,10 @@
 
 # Introduction to Surveys with Qualtrics
+Intersect Australia
 
-This course uses a hypothetical research scenario:
+----
+
+This course uses a hypothetical research scenario...
 
 ---
 ## SCENARIO:
