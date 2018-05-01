@@ -4,6 +4,8 @@ Intersect Australia
 
 ---
 
+![caution](assets/caution.png)
+
 This course uses a hypothetical research scenario...
 
 ---
