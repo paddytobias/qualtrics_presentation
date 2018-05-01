@@ -16,12 +16,15 @@ We are a group of social scientists with a research interest broadly in health a
 +++
 We...
 * first explore the Qualtrics platform to suit our needs |
-* we run through a separate scenario just to test it out, exploring all the features of the Qualtrics Survey Editor |
+* run through a separate scenario just to test it out, exploring all the features of the Qualtrics Survey Editor |
 
 ---
 ## SCENARIO UPDATE:
 
-We have decided to go ahead with Qualtrics. With our survey we want to identify the intersections between people's socio-cultural backgrounds, professional activities and their overall health. We therefore set out to build a *Health and Nutrition survey* which will be delivered to participants 16 years and older to a culturally diverse group of participants. We already have a survey developed on our computer that can be used.
+We have decided to go ahead with Qualtrics. With our survey we want to identify the intersections between people's socio-cultural backgrounds, professional activities and their overall health. 
+
+---
+We therefore set out to build a *Health and Nutrition survey* which will be delivered to participants 16 years and older to a culturally diverse group of participants. We already have a survey developed on our computer that can be used.
 
 +++
 We...
