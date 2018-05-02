@@ -4,6 +4,24 @@ Intersect Australia
 
 ---
 
+|University               |License type             |Data Centre location              |
+|-------------------------------|------------------------|----------------------------|
+|University of New England|[University-wide](unesurveys.qualtrics.com)|Sydney|
+|Charles Sturt University|[Business, Justice and Behaviour](https://csufobjbs.au1.qualtrics.com)|Sydney|
+|Southern Cross University|[University-wide](https://scuau.qualtrics.com)|USA|
+|University of New South Wales|[University-wide](unsw.qualtrics.com)|Sydney|
+|Australian Catholic University|[University-wide](https://acu.qualtrics.com)|USA|
+|La Trobe University |[University-wide](latrobe.co1.qualtrics.com)|USA|
+|Deakin University|[University-wide](https://deakinsurveys.au1.qualtrics.com)|Sydney|
+|University of Canberra|[Education](canberra.qualtrics.com) & [Health](canberrahealth.qualtrics.com)|USA|
+|Western Sydney University|[University-wide](surveyswesternsydney.qualtrics.com)|Sydney|
+|University of Newcastle|[Business and Law](newcastlebusandlaw.qualtrics.com) & [Psychology](uonpsychology.qualtrics.com)|USA & Sydney, respectively|
+|University of Sydney|[University-wide](sydney.qualtrics.com)|Sydney|
+|University of Technology Sydney|[Health](utshealth.qualtrics.com) & [Business](utsbusiness.qualtrics.com)|Sydney & USA, respectively|
+
+
+---
+
 ![caution](assets/caution.png)
 
 This course uses a hypothetical research scenario...
