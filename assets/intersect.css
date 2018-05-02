@@ -276,10 +276,6 @@ body {
   /*border-color: #ff9300;*/
   /*box-shadow: 0 0 20px rgba(0, 0, 0, 0.55); }*/
   
-  img[src*='#center'] { 
-    display: block;
-    margin: auto;
-}
 
 /*********************************************
  * NAVIGATION CONTROLS
