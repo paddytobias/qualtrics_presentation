@@ -22,7 +22,7 @@ Intersect Australia
 
 ---
 
-<center><img src="assets/caution.png"></img></center>
+![caution](assets/caution.png#centre)
 
 This course uses a hypothetical research scenario...
 
